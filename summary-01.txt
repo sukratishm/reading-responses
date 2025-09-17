@@ -1,1 +1,1 @@
-I read about [your topic]. It was interesting because [your insight]. I’d like to explore [follow-up question/idea].
+I explored the Data Engineering Handbook. I liked how it provides a clear roadmap for beginners, starting with foundational concepts and moving into hands-on bootcamps. It was interesting to see how structured the learning path is, making it easier to know where to start as a new data engineer.
